@@ -1,0 +1,4 @@
+text,label,image_path
+"I'm so happy!",0,"images/happy.jpeg"
+"I'm sad today.",1,"images/sad.jpeg"
+"I'm feeling angry!",2,"images/angry.jpeg"
